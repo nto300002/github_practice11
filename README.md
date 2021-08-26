@@ -2,3 +2,4 @@
 fetch
 pull --rebase
 ああああ
+だだだ
